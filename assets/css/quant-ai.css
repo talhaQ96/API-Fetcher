@@ -1,0 +1,28 @@
+.qai-wrapper form{
+	margin-top: 50px;
+}
+
+.qai-wrapper form label{
+	display: block;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 15px;
+}
+
+.qai-wrapper .qai-response{
+	margin-top: 50px;
+}
+
+.qai-wrapper .qai-response ul{
+	list-style: none;
+	margin: 50px 0;
+	font-size: 15px;
+}
+
+.qai-wrapper .qai-response ul li + li{
+	margin-top: 10px;
+}
+
+.qai-wrapper .qai-response ul b {
+	text-transform: capitalize;
+}
